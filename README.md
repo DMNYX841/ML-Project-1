@@ -1,7 +1,7 @@
 # ML-Project-1
 
-**Project Name:** Advancements in Early Stage Cancer Detection
-**Date of Initiation:** 05/2023 - 07/2023        
+**Project Name:** Advancements in Early Stage Cancer Detection.
+**Date of Initiation:** 05/2023 - 07/2023.        
 
 ## Overview
 Welcome to the Advancements in Early Stage Cancer Detection repository! This project is focused on compiling and analyzing the latest advancements in the early detection of cancer. Early detection is crucial for improving cancer survival rates, and this repository aims to be a comprehensive resource for researchers, healthcare professionals, and anyone interested in the evolving landscape of cancer diagnostics.
